@@ -6,8 +6,6 @@ This project involves analyzing a dataset of movies and TV shows available on Ne
 
 The dataset used for this project is obtained from Kaggle. It contains information about movies and TV shows available on Netflix, including details like title, director, cast, country, release year, rating, duration, and a brief description.
 
-You can find the dataset on Kaggle: [Netflix Movies and TV Shows](https://www.kaggle.com/shivamb/netflix-shows)
-
 ## Project Overview
 
 The main goal of this project is to explore and gain insights from the Netflix dataset. The analysis includes data cleaning, data exploration, and visualization using pandas, matplotlib, and seaborn libraries in Python.
