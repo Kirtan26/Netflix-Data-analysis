@@ -22,11 +22,5 @@ The main goal of this project is to explore and gain insights from the Netflix d
 
 5. **Conclusion**: A summary of the key findings and insights obtained from the analysis.
 
-## Requirements
 
-To run the notebook and reproduce the analysis, you will need the following:
-
-- Python 3.x
-- Jupyter Notebook or JupyterLab
-- Required Python libraries: pandas, matplotlib, seaborn
 
