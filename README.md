@@ -22,7 +22,8 @@ The main goal of this project is to explore and gain insights from the Netflix d
 
 5. **Conclusion**: A summary of the key findings and insights obtained from the analysis.!
 
-[Uploading Screenshot 2023-06-14 at 10.42.39 AM.png…]()
+<img width="942" alt="Screenshot 2023-06-14 at 10 42 39 AM" src="https://github.com/Kirtan26/Netflix-Data-analysis/assets/111518718/566b1b16-5eb5-4dff-807c-3e16574c31dc">
+
 
 <img width="942" alt="Screenshot 2023-06-14 at 10 42 21 AM" src="https://github.com/Kirtan26/Netflix-Data-analysis/assets/111518718/a89090a1-73d0-48a5-8e26-5b8258dbecff">
 
