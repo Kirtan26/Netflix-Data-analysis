@@ -20,7 +20,7 @@ The main goal of this project is to explore and gain insights from the Netflix d
 
 4. **Data Visualization**: The analysis results are visually represented using the matplotlib and seaborn libraries, with different types of charts and graphs for better understanding.
 
-5. **Conclusion**: A summary of the key findings and insights obtained from the analysis.!
+5. **Conclusion**: A summary of the key findings and insights obtained from the analysis.
 
 <img width="942" alt="Screenshot 2023-06-14 at 10 42 39 AM" src="https://github.com/Kirtan26/Netflix-Data-analysis/assets/111518718/566b1b16-5eb5-4dff-807c-3e16574c31dc">
 
