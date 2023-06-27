@@ -4,7 +4,6 @@ This project involves analyzing a dataset of movies and TV shows available on Ne
 
 ## Dataset
 
-The dataset used for this project is obtained from Kaggle. It contains information about movies and TV shows available on Netflix, including details like title, director, cast, country, release year, rating, duration, and a brief description.
 
 ## Project Overview
 
